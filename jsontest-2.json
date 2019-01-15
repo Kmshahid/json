@@ -1,0 +1,39 @@
+[
+{
+"name": "Tomy",
+"species": "Dog",
+"foods": {
+"likes": [
+"Fish",
+"Meat"
+],
+"dislikes": [
+"carrots"
+]
+}
+},
+{
+"name": "Woof",
+"species": "Cat",
+"foods": {
+"likes": [
+"Cat Food"
+],
+"dislikes": [
+"Dog Food"
+]
+}
+},
+{
+"name": "Mr.Jhon",
+"species": "Man",
+"foods": {
+"likes": [
+"Rice"
+],
+"dislikes": [
+"dry food"
+]
+}
+}
+]

@@ -1,0 +1,41 @@
+[
+{
+"name": "Md.Tarikul Islam",
+"species": "Man",
+"language": {
+"likes": [
+"Python",
+"Php"
+],
+"dislikes": [
+"Go",
+"Ruby"
+]
+}
+},
+{
+"name": "Rony Kader",
+"species": "Man",
+"language": {
+"likes": [
+"Ruby",
+"C++"
+],
+"dislikes": [
+"Php"
+]
+}
+},
+{
+"name": "Mr.Dog",
+"species": "Do",
+"foods": {
+"likes": [
+"Fish"
+],
+"dislikes": [
+"Rice"
+]
+}
+}
+]
