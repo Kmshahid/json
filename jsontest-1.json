@@ -27,14 +27,15 @@
 }
 },
 {
-"name": "Mr.Dog",
-"species": "Do",
+"name": "Mr.Goat",
+"species": "Domestic",
 "foods": {
 "likes": [
-"Fish"
+"Grass",
+"Leaf"
 ],
 "dislikes": [
-"Rice"
+"Water"
 ]
 }
 }
